@@ -1,0 +1,67 @@
+ 
+ body {
+   font-family: Arial, sans-serif;
+   background-color: #fd7505;
+   color: #333;
+   margin: 0;
+   padding: 0;
+}
+
+p{
+   font-family: Arial, sans-serif;
+      color: #0c0c0c;
+       margin: 10px;
+      line-height: 1.4;
+}
+
+h2{
+   font-family: Arial, sans-serif;
+   color: #302a2a;
+   margin: 10px;
+   line-height: 1.9; 
+}
+
+h3{
+   font-family: Arial, sans-serif;
+   color: #1613c9;
+   margin: 10px;
+  
+}
+
+header {
+   background-color: #e21145;
+   color: #fff;
+   padding: 10px 0;
+   text-align: center;
+}
+
+nav ul {
+   list-style: none;
+   padding: 0;
+}
+
+nav ul li {
+   display: inline;
+   margin-right: 20px;
+}
+
+nav ul li a {
+   color: #101011;
+   text-decoration: none;
+}
+
+section {
+   padding: 20px;
+}
+
+footer {
+   background-color: #d41646;
+   color: #fff;
+   text-align: center;
+   padding: 10px 0;
+   position: fixed;
+   width: 100%;
+   bottom: 0;
+}
+
+
